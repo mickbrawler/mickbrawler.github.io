@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Embedded PDF version of my CV.",
+          description: "Click the rightmost pdf link. Embedding pdfs is hard if you&#39;re lazy.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -51,28 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mentors/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-projects",
-              title: "projects",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-some-papers-highly-relevant-to-my-initial-work-on-modeling-fbots",
+        },{id: "post-some-papers-highly-relevant-to-my-initial-work-on-modeling-fbots",
       
         title: "Some papers highly relevant to my initial work on modeling FBOTs",
       
@@ -81,17 +60,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/post/";
-        
-      },
-    },{id: "post-provided-template-for-a-post-with-advanced-image-components",
-      
-        title: "Provided template for a post with advanced image components!",
-      
-      description: "This is what advanced image components could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/template/";
         
       },
     },{id: "news-began-instruction-at-cornell-sparkles",

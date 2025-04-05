@@ -46,6 +46,6 @@ orcid_id: 0000-0001-5593-0721
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: /Users/michaelcamilo/website/mickbrawler.github.io/assets/img/theQuestion.png # can be png, svg, jpg
+  logo: https://upload.wikimedia.org/wikipedia/commons/4/42/Cornell_University_Logo.png # can be png, svg, jpg
   title: Cornell Bio
   url: https://astro.cornell.edu/michael-camilo

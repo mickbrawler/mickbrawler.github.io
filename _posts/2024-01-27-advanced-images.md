@@ -3,7 +3,7 @@ layout: post
 title: Provided template for a post with advanced image components!
 date: 2024-01-27 11:46:00
 description: This is what advanced image components could look like
-tags: Formatting Images
+tags: code
 categories: sample-posts
 thumbnail: assets/img/9.jpg
 images:

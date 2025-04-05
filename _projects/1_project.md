@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Characterizing the Dynamics and Properties of FBOTs
+description:
+img: assets/img/FBOT1.jpg
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
 

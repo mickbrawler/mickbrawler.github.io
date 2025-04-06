@@ -8,18 +8,12 @@ category: coursework
 related_publications: false
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/streamProj/streamAtlas.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    An atlas of stellar streams discovered in the Milky Way from Figure 2 of New Astronomy Reviews, Volume 100, id.101713.
 </div>
+
+The Rubin Observatory will observe, and likely discover new, stellar streams in the Milky Way (MW). Stellar streams are filamentary structures made up of stars from disrupted dwarf galaxies tidally stripped/stretched by more massive galaxies. They serve as a probe of dark matter (DM) via their gravitational interactions with DM sub-structures that create disruptions in the streams. We can learn about the mass and distribution of DM-sub-structures in the MW using observations of its stellar streams as tracers! Rubin’s high resolution will be instrumental to (i) identifying these perturbations in the streams. In addition, these observations can be (ii) compared with what simulations predict for the shape a disruption will take to (iii) refine our current models of DM (CDM, WDM, etc) and its distribution. Rubin will also observe the stellar streams of other galaxies.
 

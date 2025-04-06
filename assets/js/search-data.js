@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "What I&#39;m working on these days.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -68,21 +68,21 @@ ninja.data = [{
           section: "News",},{id: "news-finished-first-semester-at-cornell-smile",
           title: 'Finished first semester at Cornell! :smile:',
           description: "",
-          section: "News",},{id: "projects-characterizing-the-dynamics-and-properties-of-fbots",
-          title: 'Characterizing the Dynamics and Properties of FBOTs',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-inferring-the-equation-of-state-of-neutron-stars",
+          section: "News",},{id: "projects-inferring-the-equation-of-state-of-neutron-stars",
           title: 'Inferring the Equation of State of Neutron Stars',
-          description: "",
+          description: "Image Credit - LIGO",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/EOS/";
+            },},{id: "projects-characterizing-the-dynamics-and-properties-of-fbots",
+          title: 'Characterizing the Dynamics and Properties of FBOTs',
+          description: "Image Credit - Phil Drury, University of Sheffield",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/FBOT/";
             },},{id: "projects-using-stellar-streams-as-a-probe-for-dark-matter-substructures",
           title: 'Using Stellar Streams as a Probe for Dark Matter Substructures',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/STREAM/";
             },},{
         id: 'social-email',
         title: 'email',

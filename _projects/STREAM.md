@@ -8,7 +8,7 @@ category: coursework
 related_publications: false
 ---
 
-<div class="col-sm-8 mt-3 mt-md-0">
+<div>
     {% include figure.liquid path="assets/img/streamProj/streamAtlas.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">

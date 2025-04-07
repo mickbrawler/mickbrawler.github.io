@@ -68,9 +68,9 @@ ninja.data = [{
           section: "News",},{id: "news-finished-first-semester-at-cornell-smile",
           title: 'Finished first semester at Cornell! :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-inferring-the-equation-of-state-of-neutron-stars",
+          title: 'Inferring the Equation of State of Neutron Stars',
+          description: "Image Credit - T. Dietrich (Potsdam University and Max Planck Institute for Gravitational Physics), N. Fischer, S. Ossokine, H. Pfeiffer (Max Planck Institute for Gravitational Physics), T. Vu. Numerical-relativity simulation -  S.V. Chaurasia (Stockholm University), T. Dietrich (Potsdam University and Max Planck Institute for Gravitational Physics)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/EOS/";
             },},{id: "projects-characterizing-the-dynamics-and-properties-of-fbots",

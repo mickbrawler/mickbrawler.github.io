@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Using Stellar Streams as a Probe for Dark Matter Substructures
-description:
+description: Image Credit - James Josephides and S5 Collaboration
 img: assets/img/stellarStream.jpg
 importance: 1
 category: coursework

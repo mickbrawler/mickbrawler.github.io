@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inferring the Equation of State of Neutron Stars
-description: Image Credit - T. Dietrich (Potsdam University and Max Planck Institute for Gravitational Physics), N. Fischer, S. Ossokine, H. Pfeiffer (Max Planck Institute for Gravitational Physics), T. Vu. Numerical-relativity simulation: S.V. Chaurasia (Stockholm University), T. Dietrich (Potsdam University and Max Planck Institute for Gravitational Physics)
+description: Image Credit - T. Dietrich (Potsdam University and Max Planck Institute for Gravitational Physics), N. Fischer, S. Ossokine, H. Pfeiffer (Max Planck Institute for Gravitational Physics), T. Vu. Numerical-relativity simulation -  S.V. Chaurasia (Stockholm University), T. Dietrich (Potsdam University and Max Planck Institute for Gravitational Physics)
 img: assets/img/NSBHmerger.jpg
 importance: 2
 category: research

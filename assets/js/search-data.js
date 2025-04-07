@@ -68,9 +68,9 @@ ninja.data = [{
           section: "News",},{id: "news-finished-first-semester-at-cornell-smile",
           title: 'Finished first semester at Cornell! :smile:',
           description: "",
-          section: "News",},{id: "projects-inferring-the-equation-of-state-of-neutron-stars",
-          title: 'Inferring the Equation of State of Neutron Stars',
-          description: "Image Credit - LIGO",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/EOS/";
             },},{id: "projects-characterizing-the-dynamics-and-properties-of-fbots",
@@ -80,7 +80,7 @@ ninja.data = [{
               window.location.href = "/projects/FBOT/";
             },},{id: "projects-using-stellar-streams-as-a-probe-for-dark-matter-substructures",
           title: 'Using Stellar Streams as a Probe for Dark Matter Substructures',
-          description: "",
+          description: "Image Credit - James Josephides and S5 Collaboration",
           section: "Projects",handler: () => {
               window.location.href = "/projects/STREAM/";
             },},{

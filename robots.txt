@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: michaelcamilo.com/sitemap.xml
+User-agent: * Disallow: Sitemap: www.michaelcamilo.com/sitemap.xml

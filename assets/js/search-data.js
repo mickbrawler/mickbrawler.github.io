@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Click the rightmost pdf link. Embedding pdfs is hard if you&#39;re lazy.",
+          description: "Click the rightmost pdf link.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
